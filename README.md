@@ -42,7 +42,7 @@
   
 2.Auto Stop Script Added . 
  
-3.Create Virtual Environments Feature Added .
+3.Self Creating Virtual Environments Feature Added .
   
 4.More Features Will be Added with future stable versions .
   
