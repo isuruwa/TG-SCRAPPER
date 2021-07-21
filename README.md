@@ -1,7 +1,9 @@
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-TGSCRAPPER-brightgreen?style=for-the-badge&logo=appveyor"></a>
 <br>
 <p align="center">
-<img src="https://img.icons8.com/cute-clipart/256/000000/telegram-app.png"/>
+
+ ![TeleGram-2BScraper-2B-25281-2529](https://user-images.githubusercontent.com/72663288/126446260-a5c4135b-dae0-48e5-85cb-dd704367887e.PNG)
+
 <p align="center">
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-THUNTER-blueviolet?style=for-the-badge&logo=appveyor"></a>
 <br>
