@@ -102,6 +102,6 @@
  
  ---
 ### ❤️Supporters❤️ 
-[![Stars @isuruwa/T-HYDRA](https://reporoster.com/stars/dark/isuruwa/T-HYDRA)](https://github.com/isuruwa/T-HYDRA/stargazers)
-[![Forks @isuruwa/T-HYDRA](https://reporoster.com/forks/dark/isuruwa/T-HYDRA)](https://github.com/isuruwa/T-HYDRA/network/members)
+[![Stars @isuruwa/T-HYDRA](https://reporoster.com/stars/dark/isuruwa/TG-SCRAPPER)](https://github.com/isuruwa/TG-SCRAPPER/stargazers)
+[![Forks @isuruwa/T-HYDRA](https://reporoster.com/forks/dark/isuruwa/TG-SCRAPPER)](https://github.com/isuruwa/TG-SCRAPPER/network/members)
 ---
