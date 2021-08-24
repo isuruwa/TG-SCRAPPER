@@ -98,3 +98,10 @@
 ![Screenshot_20210621-231255_Termux](https://user-images.githubusercontent.com/72663288/122806440-eff4ac80-d2e7-11eb-9886-c01928019e91.jpg)
 
 ![Screenshot_20210621-231318_Termux](https://user-images.githubusercontent.com/72663288/122806458-f71bba80-d2e7-11eb-8540-ce1079304091.jpg)
+
+ 
+ ---
+### ❤️Supporters❤️ 
+[![Stars @isuruwa/T-HYDRA](https://reporoster.com/stars/dark/isuruwa/T-HYDRA)](https://github.com/isuruwa/T-HYDRA/stargazers)
+[![Forks @isuruwa/T-HYDRA](https://reporoster.com/forks/dark/isuruwa/T-HYDRA)](https://github.com/isuruwa/T-HYDRA/network/members)
+---
