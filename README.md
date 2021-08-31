@@ -13,10 +13,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisuruwa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 <br>
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/isuruwa-ABOUT%20TOOL-blueviolet?style=for-the-badge&logo=appveyor">  
  
 <p>
   
@@ -30,10 +26,6 @@
 
 <br>
   
-  
-  
-
-<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Features-ff69b4?style=for-the-badge&logo=appveyor"></a>
   
   
 ## FEATURES : <img src="https://img.icons8.com/cute-clipart/50/000000/fire-element.png"/>
@@ -50,10 +42,6 @@
   
 </p>
 
-<br>
-  
- 
-<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Available-brightgreen?style=for-the-badge&logo=appveyor"></a>
   
 ## AVAILABLE ON : <img src="https://img.icons8.com/cute-clipart/50/000000/fire-element.png"/>
   
@@ -83,14 +71,6 @@
   
 ```
   
-  
-<br>
-
-<img src="https://img.shields.io/badge/isuruwa-Thank%20You-brightgreen?style=social&logo=appveyor"/>
-
-<img src="https://img.shields.io/badge/isuruwa-STAY%20SAFE-brightgreen?style=flat-square&logo=appveyor"/>
-
-<img src="https://img.shields.io/badge/isuruwa-EXPECT%20US-red?style=for-the-badge&logo=appveyor"/>
 
 
 # SCREENSHOTS : 
