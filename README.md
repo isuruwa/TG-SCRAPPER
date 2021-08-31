@@ -5,7 +5,7 @@
  ![TeleGram-2BScraper-2B-25281-2529](https://user-images.githubusercontent.com/72663288/126446260-a5c4135b-dae0-48e5-85cb-dd704367887e.PNG)
 
 <p align="center">
-<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-THUNTER-blueviolet?style=for-the-badge&logo=appveyor"></a>
+<a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-TG--SCRAPPER-blueviolet?style=for-the-badge&logo=appveyor"></a>
 <br>
 <p align="center">
 <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwatgscrapper" />
@@ -14,33 +14,19 @@
 </p>
 <br>
  
-<p>
   
-## ABOUT TOOL : <img src="https://img.icons8.com/cute-clipart/50/000000/fire-element.png"/>
-  
-* TG-SCRAPPER is a python based powerful script for scrapping members of a telegram group & adding to a group . 
+# TG-SCRAPPER is a python based powerful script for scrapping members from a telegram group & adding to a group . 
  
-* Still This is a beta Version . Still In Development . Expect Full Version Soon ...
-  
-</p>
-
-<br>
-  
+# Still This is a beta Version . Still In Development . Expect Full Version Soon ...
   
   
 ## FEATURES : <img src="https://img.icons8.com/cute-clipart/50/000000/fire-element.png"/>
 
-<p>
+* Optimized for beter Experience . 
+* Auto Stop Script Added . 
+* Self Creating Virtual Environments Feature Added .
+* More Features Will be Added with future stable versions .
   
-1.Optimized for beter Experience . 
-  
-2.Auto Stop Script Added . 
- 
-3.Self Creating Virtual Environments Feature Added .
-  
-4.More Features Will be Added with future stable versions .
-  
-</p>
 
   
 ## AVAILABLE ON : <img src="https://img.icons8.com/cute-clipart/50/000000/fire-element.png"/>
