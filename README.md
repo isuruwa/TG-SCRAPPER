@@ -1,3 +1,18 @@
+## (Showing Errors) Fixed - 30/12/2021
+## Script Only compatible With Latest Python 3.10.1 v
+
+# Upcoming Features 
+
+1.Final Stable Version
+
+2.Multi Login
+
+3.Session Login
+
+4.Bug Fixed
+
+5.More Features
+
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-TGSCRAPPER-brightgreen?style=for-the-badge&logo=appveyor"></a>
 <br>
 <p align="center">
